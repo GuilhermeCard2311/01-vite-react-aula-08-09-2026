@@ -10,7 +10,7 @@ function App() {
   return (
     <>
     
-    <p>Olá, mundo</p>
+    <p>Olá, mundo! :D</p>
     </>
   )
 }
