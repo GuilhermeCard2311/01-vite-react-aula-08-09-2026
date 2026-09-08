@@ -23,3 +23,11 @@ sudo apt install -y nodejs
  ``` bash
  npm create vite@latest
  ```
+
+ ``` bash
+ cd react-aula
+ ```
+
+``` bash
+npm install
+``` 
