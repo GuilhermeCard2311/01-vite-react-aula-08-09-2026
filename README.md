@@ -8,8 +8,6 @@ sudo apt update
 sudo apt install -y nodejs
 ```
 
-
-
 ```bash
  npm install -g npm@11.19.0
  ```
@@ -18,3 +16,10 @@ sudo apt install -y nodejs
  npm -v
  ```
  
+ ``` bash
+ node -v
+ ```
+
+ ``` bash
+ npm create vite@latest
+ ```
