@@ -42,7 +42,7 @@ R: O virtual DOM é uma estrutura que compara o estado anterior da página com o
 R:A biblioteca fornece ferramentas específicas e você escolhe como utilizar. Já o framework vem com a arquitetura praticamente toda pré-definida e você tem que seguir as regras impostas pelo framework.
 
 3- O que é uma SPA?
-R: SPA é uma das principais aplicaçõs do React. Ela tem apenas um aquivo HRMLP principal, o conteúdo é alterado dinamicamente e não a recarregamento completo da página. Essa abordagem proporciona interfaces mais rápidas e fluidas.
+R: SPA é uma das principais aplicações do React. Ela tem apenas um aquivo HRMLP principal, o conteúdo é alterado dinamicamente e não a recarregamento completo da página. Essa abordagem proporciona interfaces mais rápidas e fluidas.
 
 4- Cite cinco empresas que utilizam React.
 R:Instagram, Discord, Uber, Netflix, WhatzApp Web.
